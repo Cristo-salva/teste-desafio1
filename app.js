@@ -6,7 +6,7 @@
 //Crie uma função que exiba no console a mensagem O botão foi clicado
 //sempre que o botão Console for pressionado.
 function clickConsole() {
-    console.log('O botão foi clicado');
+    console.log('O botão foi apertado');
 }
 
 //Crie uma função que exiba um alerta com a mensagem:
